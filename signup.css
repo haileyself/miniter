@@ -1,0 +1,36 @@
+
+.signMsg {
+    font-size: 24px;
+    margin: 40px 0px 20px;
+    color: #14171A;
+    font-family: "Segoe UI", Arial, sans-serif;
+    text-align: center;
+}
+
+.signup_container input {
+    width: 94%;
+    height: 30px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    background-color: #F5F8FA;
+    border: 1px solid #e6ecf0;
+    border-bottom: 2px solid #e6ecf0;
+}
+
+input[type="button"] {
+    background-color: #1da1f2;
+    border: 1px solid #1da1f2;
+    color: #fff;
+    border-radius: 25px;
+    box-shadow: none;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    line-height:30px;
+    width: 90%
+    margin-left: 5px;
+    margin-right: 0px;
+    display: block;
+    width: 95%
+}
